@@ -1,0 +1,16 @@
+{
+  "name": "@securist/redirect-intel",
+  "version": "0.1.0",
+  "description": "Public redirect / infrastructure link intelligence",
+  "type": "module",
+  "license": "MIT",
+  "repository": "https://github.com/Securist-InfoSec/redirect-intel",
+  "homepage": "https://secur.ist/links",
+  "scripts": {
+    "test": "node -e \"console.log('ok', require('./package.json').name)\""
+  },
+  "keywords": [
+    "securist",
+    "infosec"
+  ]
+}
